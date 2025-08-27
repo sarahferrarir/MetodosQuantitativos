@@ -1,5 +1,5 @@
 # Aula de Métodos Quantitativos 
-**Professor**: Luiz Oliveira 
+**Professor**: Luiz Oliveira   
 IBMEC 2025.2
 
 **Terça-feira**  
